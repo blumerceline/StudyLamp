@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StudyLamp/static/css/main.b854dbf9.chunk.css",
+    "main.js": "/StudyLamp/static/js/main.4d7fbafa.chunk.js",
+    "main.js.map": "/StudyLamp/static/js/main.4d7fbafa.chunk.js.map",
+    "runtime~main.js": "/StudyLamp/static/js/runtime~main.6120248d.js",
+    "runtime~main.js.map": "/StudyLamp/static/js/runtime~main.6120248d.js.map",
+    "static/js/2.9608af71.chunk.js": "/StudyLamp/static/js/2.9608af71.chunk.js",
+    "static/js/2.9608af71.chunk.js.map": "/StudyLamp/static/js/2.9608af71.chunk.js.map",
+    "index.html": "/StudyLamp/index.html",
+    "precache-manifest.7392ca6cb400f7b2690277e6e73d630f.js": "/StudyLamp/precache-manifest.7392ca6cb400f7b2690277e6e73d630f.js",
+    "service-worker.js": "/StudyLamp/service-worker.js",
+    "static/css/main.b854dbf9.chunk.css.map": "/StudyLamp/static/css/main.b854dbf9.chunk.css.map"
+  }
+}
